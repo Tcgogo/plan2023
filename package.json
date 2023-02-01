@@ -1,0 +1,19 @@
+{
+  "name": "subject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "serve": "node --loader ts-node/esm index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.11.18",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.5",
+    "vite": "^4.0.4"
+  }
+}
