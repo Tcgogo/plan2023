@@ -1,4 +1,5 @@
 // 手写用 ES6proxy 如何实现 arr[-1] 的访问
+export default {};
 
 const arr: number[] = [1, 2, 3];
 
